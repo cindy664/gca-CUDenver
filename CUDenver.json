@@ -2,7 +2,7 @@
   {
     "item": "home",
     "schoolname": "University of Colorado Denver",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": "#000000",
     "primaryBrandColor": "#CFB87C",
@@ -15,27 +15,27 @@
     "termsandConditionsPolicy": "https://www.ucdenver.edu/policies",
     "registrationMessage": "Registration is now open.",
     "credits": "3 CU Denver credits",
-    "startDate": "January 20",
-    "endDate": "May 16"
+    "startDate": "June 8",
+    "endDate": "August 1"
   },
   {
     "item": "about",
     "schoolname": "University of Colorado Denver",
     "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": "1201 Larimer Street\r\nDenver, CO 80204",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "phone": "(720) 782-1830",
     "credits": "3 CU Denver credits",
     "programFee": "+ 3,058",
-    "seasonYear": "Spring 2026",
-    "term": "<b style='color:#cc2a1f;'>null</b>",
-    "season": "Spring",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
     "registrationMessage": "Registration is now open."
   },
   {
     "item": "explore-tracks",
     "credits": "3 CU Denver credits",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -43,72 +43,87 @@
     "schoolname": "University of Colorado Denver",
     "trackTitle": "Digital Marketing Track",
     "credits": "3 CU Denver credits",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
-    "seasonYear": "Spring 2026",
-    "startDate": "January 20",
-    "endDate": "May 16"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "August 1",
+    "term2StartDate": null,
+    "term2EndDate": null
   },
   {
     "item": "coding-for-web",
     "schoolname": "University of Colorado Denver",
     "trackTitle": "Web Development for Everyone Track",
     "credits": "3 CU Denver credits",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
-    "seasonYear": "Spring 2026",
-    "startDate": "January 20",
-    "endDate": "May 16"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "August 1",
+    "term2StartDate": null,
+    "term2EndDate": null
   },
   {
     "item": "data-analytics",
     "schoolname": "University of Colorado Denver",
     "trackTitle": "Data Analytics Track",
     "credits": "3 CU Denver credits",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
-    "seasonYear": "Spring 2026",
-    "startDate": "January 20",
-    "endDate": "May 16"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "August 1",
+    "term2StartDate": null,
+    "term2EndDate": null
   },
   {
     "item": "coding-for-data",
     "schoolname": "University of Colorado Denver",
     "trackTitle": "Coding for Data Track",
     "credits": "3 CU Denver credits",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
-    "seasonYear": "Spring 2026",
-    "startDate": "January 20",
-    "endDate": "May 16"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "August 1",
+    "term2StartDate": null,
+    "term2EndDate": null
   },
   {
     "item": "career-rotation",
     "schoolname": "University of Colorado Denver",
     "trackTitle": "Career Rotation Track",
     "credits": "3 CU Denver credits",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
-    "seasonYear": "Spring 2026",
-    "startDate": "January 20",
-    "endDate": "May 16"
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 8",
+    "term1EndDate": "August 1",
+    "term2StartDate": null,
+    "term2EndDate": null
   },
   {
     "item": "reserve-a-seat",
     "programName": "CU Denver Global Career Accelerator",
     "registrationMessage": "Registration is now open.",
     "phone": "(720) 782-1830",
-    "abbreviation": "CU Denver"
+    "abbreviation": "CUDenver"
   },
   {
     "item": "begin",
     "credits": "3 CU Denver credits",
-    "abbreviation": "CU Denver",
+    "abbreviation": "CUDenver",
     "phone": "(720) 782-1830"
   }
 ]
