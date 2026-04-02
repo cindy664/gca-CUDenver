@@ -15,7 +15,7 @@
     "termsandConditionsPolicy": "https://www.ucdenver.edu/policies",
     "registrationMessage": "Registration is now open.",
     "credits": "3 CU Denver credits",
-    "startDate": "June 8",
+    "startDate": "May 18",
     "endDate": "August 1"
   },
   {
@@ -45,13 +45,13 @@
     "credits": "3 CU Denver credits",
     "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
+    "courseCode1": "BUSN 4800 (CRN: 28760)",
     "seasonYear1": "Summer 2026",
     "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 8",
+    "term1StartDate": "May 18",
     "term1EndDate": "August 1",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 12"
   },
   {
     "item": "coding-for-web",
@@ -60,13 +60,13 @@
     "credits": "3 CU Denver credits",
     "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
+    "courseCode1": "BUSN 4800 (CRN: 28760)",
     "seasonYear1": "Summer 2026",
     "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 8",
+    "term1StartDate": "May 18",
     "term1EndDate": "August 1",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 12"
   },
   {
     "item": "data-analytics",
@@ -75,13 +75,13 @@
     "credits": "3 CU Denver credits",
     "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
+    "courseCode1": "BUSN 4800 (CRN: 28760)",
     "seasonYear1": "Summer 2026",
     "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 8",
+    "term1StartDate": "May 18",
     "term1EndDate": "August 1",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 12"
   },
   {
     "item": "coding-for-data",
@@ -90,13 +90,13 @@
     "credits": "3 CU Denver credits",
     "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
+    "courseCode1": "BUSN 4800 (CRN: 28760)",
     "seasonYear1": "Summer 2026",
     "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 8",
+    "term1StartDate": "May 18",
     "term1EndDate": "August 1",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 12"
   },
   {
     "item": "career-rotation",
@@ -105,13 +105,13 @@
     "credits": "3 CU Denver credits",
     "abbreviation": "CUDenver",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "BUSN 4800 (Section E50) (CRN: 28760)",
+    "courseCode1": "BUSN 4800 (CRN: 28760)",
     "seasonYear1": "Summer 2026",
     "seasonYear2": "Fall 2026",
-    "term1StartDate": "June 8",
+    "term1StartDate": "May 18",
     "term1EndDate": "August 1",
-    "term2StartDate": null,
-    "term2EndDate": null
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 12"
   },
   {
     "item": "reserve-a-seat",
